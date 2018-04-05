@@ -13,4 +13,4 @@ Then just run the install.php script to set up the database.
 
 ## Subject
 
-https://github.com/AnthonyLedru/minishop/blob/master/fillit.pdf
+https://github.com/AnthonyLedru/minishop/blob/master/rush00.pdf
