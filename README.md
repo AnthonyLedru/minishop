@@ -6,7 +6,7 @@ Made with @tbailleu : https://profile.intra.42.fr/users/tbailleu
 
 ## Usage
 
-Start a PHP 5 server (the website only work on php 5).
+Start a PHP 5 server (the website doesn't run on php 7).
 ```
 php -S localhost:8080
 ```
