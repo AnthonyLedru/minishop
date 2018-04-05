@@ -1,6 +1,6 @@
 # Minishop
-This project was done in 48h during the piscine PHP of 42 school.
-We had to make a Minishop without any framework and in php only
+This project was done in 48h during the piscine PHP of 42 school.<br>
+We had to make a Minishop without any framework and in php only (without object).
 
 ## Usage
 
